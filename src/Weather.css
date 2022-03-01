@@ -25,8 +25,8 @@
 }
 
 .Weather img {
-  height: 64px;
-  width: 64px;
+  height: 100px;
+  width: 100px;
   margin: -32px 10px 0 0;
   display: inline-block;
 }
@@ -45,5 +45,4 @@
   line-height: 1;
   position: relative;
   top: -34px;
-  margin-left: 5px;
 }
