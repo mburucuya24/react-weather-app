@@ -1,0 +1,11 @@
+.WeatherForecast {
+  text-align: center;
+}
+
+.WeatherForecast-temperature {
+  margin-top: -14px;
+}
+
+.WeatherForecast-temperature-min {
+  opacity: 0.6;
+}
