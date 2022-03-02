@@ -9,7 +9,7 @@ function App() {
         <Weather defaultCity="Washington DC" />
         <footer>
           <a
-            href="https://github.com/mburucuya24/weather-app-react"
+            href="https://github.com/mburucuya24/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
