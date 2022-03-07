@@ -2,10 +2,17 @@
   text-align: center;
 }
 
-.WeatherForecast-temperature {
-  margin-top: -14px;
+.WeatherForecast-temperatures {
+  margin: 0 auto;
 }
 
 .WeatherForecast-temperature-min {
   opacity: 0.6;
+}
+
+.WeatherForecastDay img {
+  height: 80px;
+  width: 80px;
+  margin: -10px 0;
+  display: inline-block;
 }
