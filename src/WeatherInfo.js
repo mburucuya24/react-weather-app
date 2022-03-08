@@ -31,7 +31,8 @@ export default function WeatherInfo(props) {
         <div className="col-4">
           <ul>
             <li>
-              {props.data.hightemp}° | {props.data.lowtemp}°
+              <span className="current-high-temp">{props.data.hightemp}°</span>{" "}
+              | <span className="current-low-temp">{props.data.lowtemp}°</span>
             </li>
             <li>Humidity: {props.data.humidity}%</li>
             <li>Wind: {props.data.wind} km/h</li>
